@@ -5,7 +5,7 @@
 ### Data Engineer • Data Analyst • Machine Learning Enthusiast • Cloud Computing
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=750&lines=Data+Engineer;Data+Analyst;Machine+Learning+Enthusiast;Business+Intelligence+Developer;Cloud+Computing+Explorer;Building+End-to-End+Data+Solutions;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=4F8EF7&center=true&vCenter=true&width=800&lines=Data+Engineer;Data+Analyst;Machine+Learning+Enthusiast;Business+Intelligence+Developer;Cloud+Computing+Explorer;Building+End-to-End+Data+Solutions;Always+Learning+and+Building" />
 </p>
 
 Building scalable data solutions that transform raw data into meaningful business insights.
@@ -14,19 +14,23 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-# 🚀 About Me
+<h2>
+<img src="https://img.icons8.com/fluency/48/about.png" width="30"/>
+ About Me
+</h2>
 
 - 📊 Passionate about **Data Engineering**, **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**
-- ☁️ Building scalable cloud-based data pipelines using **Microsoft Azure** and **Azure Databricks**
+- ☁️ Building cloud-based data pipelines using **Microsoft Azure**, **Azure Databricks**, and **Apache Spark**
 - 📈 Creating interactive dashboards with **Microsoft Power BI** and **Tableau**
 - 🤖 Exploring **Generative Artificial Intelligence**, **Large Language Models (LLMs)**, and intelligent applications
-- 🌱 Continuously learning modern technologies and solving real-world business problems through data
+- 🌱 Always learning new technologies and solving real-world business problems through data
 
 ---
 
-# 💻 Technical Skills
-
-### 👨‍💻 Programming Languages
+<h2>
+<img src="https://skillicons.dev/icons?i=python" width="30"/>
+ Programming Languages
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,ts,r,mysql,postgres" />
@@ -36,11 +40,16 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### 📊 Data Science & Machine Learning
+<h2>
+<img src="https://skillicons.dev/icons?i=jupyter" width="30"/>
+ Data Science & Machine Learning
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,jupyter" />
 </p>
+
+**Libraries**
 
 - Pandas
 - NumPy
@@ -51,11 +60,12 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### 📈 Data Visualization & Business Intelligence
+<h2>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="30"/>
+ Data Visualization & Business Intelligence
+</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=tableau" />
-</p>
+**Tools**
 
 - Microsoft Power BI
 - Tableau
@@ -65,11 +75,16 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### ⚡ Data Engineering & Big Data
+<h2>
+<img src="https://skillicons.dev/icons?i=azure" width="30"/>
+ Data Engineering & Big Data
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure,docker" />
 </p>
+
+**Technologies**
 
 - Apache Spark
 - PySpark
@@ -78,7 +93,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### 🗄️ Databases
+<h2>
+<img src="https://skillicons.dev/icons?i=postgres" width="30"/>
+ Databases
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
@@ -91,7 +109,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### ☁️ Cloud & Data Platforms
+<h2>
+<img src="https://skillicons.dev/icons?i=azure" width="30"/>
+ Cloud & Data Platforms
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=azure" />
@@ -105,7 +126,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### 🤖 Artificial Intelligence & Backend Development
+<h2>
+<img src="https://skillicons.dev/icons?i=fastapi" width="30"/>
+ Artificial Intelligence & Backend Development
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi" />
@@ -118,7 +142,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### 🌐 Frontend Development
+<h2>
+<img src="https://skillicons.dev/icons?i=react" width="30"/>
+ Frontend Development
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
@@ -131,7 +158,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-### ⚙️ DevOps & Version Control
+<h2>
+<img src="https://skillicons.dev/icons?i=docker" width="30"/>
+ DevOps & Version Control
+</h2>
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
@@ -145,7 +175,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-# 🚀 Featured Projects
+<h2>
+<img src="https://img.icons8.com/fluency/48/project.png" width="30"/>
+ Featured Projects
+</h2>
 
 - 🤖 AI-Powered News Aggregator
 - ☁️ Retail Data Engineering Pipeline on Microsoft Azure
@@ -157,7 +190,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-# 📈 GitHub Statistics
+<h2>
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/>
+ GitHub Statistics
+</h2>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=varshitajogur&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -170,7 +206,10 @@ Building scalable data solutions that transform raw data into meaningful busines
 
 ---
 
-# 🌐 Connect With Me
+<h2>
+<img src="https://img.icons8.com/fluency/48/share-2.png" width="30"/>
+ Connect With Me
+</h2>
 
 <p align="center">
 
@@ -182,20 +221,22 @@ Building scalable data solutions that transform raw data into meaningful busines
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="YOUR_LINKEDIN_PROFILE">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 </p>
 
-**📧 Email:** varshitajogur21@gmail.com
+<p align="center">
+📧 <strong>Email:</strong> varshitajogur21@gmail.com
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Turning Data into Decisions through Analytics, Engineering, and Artificial Intelligence
+### ⭐ Turning Data into Decisions through Analytics, Engineering & Artificial Intelligence
 
-![](https://komarev.com/ghpvc/?username=varshitajogur&style=flat-square)
+![](https://komarev.com/ghpvc/?username=varshitajogur&style=for-the-badge&color=0e75b6)
 
 </div>
