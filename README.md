@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm Varshita Jogur
 
-### **Data Engineer • Data Analyst • Machine Learning • Cloud**
+### Data Engineer • Data Analyst • Machine Learning • Cloud
 
-Building scalable **Data Engineering**, **Analytics**, and **AI** solutions that transform raw data into meaningful business insights.
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Data+Engineering;Machine+Learning;Business+Intelligence;Cloud+Technologies;Building+End-to-End+Data+Solutions" />
+Building scalable data solutions that transform raw data into meaningful insights.
 
 </div>
 
@@ -14,178 +12,105 @@ Building scalable **Data Engineering**, **Analytics**, and **AI** solutions that
 
 ## 🚀 About Me
 
-- 💼 Open to **Data Engineering**, **Data Analytics**, and **Machine Learning** opportunities
-- ☁️ Building modern data platforms using **Azure**, **Databricks**, and **Apache Spark**
-- 📊 Passionate about creating insightful dashboards with **Power BI** and **Tableau**
-- 🤖 Exploring **Generative AI**, **LangChain**, and **FastAPI**
-- 🌱 Always learning new technologies and solving real-world business problems through data
+- 📊 Passionate about **Data Engineering, Analytics & AI**
+- ☁️ Building cloud-based data pipelines with **Azure & Databricks**
+- 🤖 Exploring **Generative AI** and intelligent applications
+- 🌱 Always learning and building real-world projects
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,ts,r,mysql,postgres" />
 </p>
 
----
-
-### 📊 Data Science & Machine Learning
+### Data Science & ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,jupyter" />
 </p>
 
-**Libraries & Frameworks**
-
 `Pandas` • `NumPy` • `Scikit-learn` • `SciPy` • `Matplotlib`
 
----
-
-### 📈 Data Visualization & Business Intelligence
+### Data Visualization & BI
 
 <p>
-<img src="https://skillicons.dev/icons?i=tableau" />
+<img src="https://img.icons8.com/color/96/power-bi.png" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/>
+<img src="https://img.icons8.com/color/96/ms-excel.png" width="48"/>
+<img src="https://img.icons8.com/color/96/power-query.png" width="48"/>
 </p>
 
-**Tools**
+`DAX`
 
-`Power BI` • `Power Query` • `DAX` • `Microsoft Excel`
-
----
-
-### ⚡ Data Engineering & Big Data
+### Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=azure,docker" />
 </p>
 
-**Technologies**
+`Apache Spark` • `PySpark` • `Hadoop` • `Azure Databricks`
 
-`Apache Spark` • `PySpark` • `Hadoop (Hive)` • `Azure Databricks`
-
----
-
-### ☁️ Cloud & Data Platforms
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
 </p>
 
-**Services**
+`Azure SQL`
 
-`Azure Data Factory`
-
-`Azure Data Lake Storage Gen2`
-
-`Azure SQL Database`
-
-`Azure Key Vault`
-
-`Amazon S3`
-
----
-
-### 🤖 AI & Backend Development
+### AI & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwind,docker,github" />
 </p>
 
-**Technologies**
-
-`OpenAI API`
-
-`LangChain`
-
-`LangGraph`
+`OpenAI API` • `LangChain` • `LangGraph` • `ShadCN UI`
 
 ---
 
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-**UI**
-
-`ShadCN UI`
-
----
-
-### ⚙️ DevOps & Version Control
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
-**Tools**
-
-`Docker Compose`
-
----
-
-# 🚀 Featured Projects
-
-### 📊 Data Engineering
-
-- ⚡ Retail Data Engineering Pipeline on Azure
-- ☁️ FMCG Data Engineering using Databricks
-- 🏗️ End-to-End ETL Pipeline using Medallion Architecture
-
-### 🤖 Machine Learning
-
-- 🧠 Machine Learning for the Quantified Self (ML4QS)
-
-### 📈 Data Analytics
-
-- 📊 SaaS Revenue Intelligence & Churn Analysis
-- 🏥 Healthcare Data Analysis using Power BI
-- 🏏 IPL Analysis using Power BI
-
-### 💡 AI Application
+## 🚀 Featured Projects
 
 - 🤖 AI-Powered News Aggregator
+- ☁️ Retail Data Engineering Pipeline on Azure
+- ⚡ FMCG Data Engineering using Databricks
+- 📊 SaaS Revenue Intelligence & Churn Analysis
+- 🧠 Machine Learning for the Quantified Self
+- 🏥 Healthcare Data Analysis
+- 🏏 IPL Analysis Dashboard
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=varshitajogur&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitajogur&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varshitajogur&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitajogur&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshitajogur&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<a href="mailto:varshitajogur21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 <a href="https://github.com/varshitajogur">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 </p>
@@ -194,8 +119,8 @@ Building scalable **Data Engineering**, **Analytics**, and **AI** solutions that
 
 <div align="center">
 
-### ⭐ *"Turning Data into Decisions, Ideas into Solutions."*
+### ⭐ Turning Data into Decisions with Analytics, Engineering & AI
 
-![](https://komarev.com/ghpvc/?username=varshitajogur&style=for-the-badge&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=varshitajogur&style=flat-square)
 
 </div>
